@@ -1,0 +1,25 @@
+    <div class="items">"Kays Healthcare Nursing Agency provided exceptional care for my mother. Their caregivers were compassionate, reliable, and truly made a difference. I highly recommend their services."
+        <p>- Sarah Johnson</p>
+    </div>
+    <div class="items"> "As a healthcare professional, I rely on Kays Healthcare Nursing Agency for staffing solutions. They consistently provide qualified professionals who exceed expectations. Thank you for your outstanding service!"
+      <p>-Micheal Smith</p>
+    </div>
+    <div class="items">
+      "I cannot thank Kays Healthcare Nursing Agency enough for the support they provided during a challenging time for my family. Their caregivers went above and beyond to ensure our loved one's well-being. We are forever grateful."
+      <p> -Emily Rodriguez</p>
+    </div> 
+    <div class="items">
+      "working with Kay's Healthcare Nursing Agency has been a pleasure.Their professionalism, attention to detail,and commitment to quality care are unmatched. i would not hesistate to recommend their services to others "
+     <p> -David Thompson</p>
+    </div>
+    <div class="items">
+      "Kay's Healthcare Nursing Agency took the stress out of finding reliable healthcare professionals four our family. Their team was responsive, professionals, and dedicated to meeting our staffing needs.we couldn't be happie with the service we recieved "
+     <p>-Mary johnson</p>
+    </div>
+
+    background: #353535;
+    margin:20px 40px 20px 10px ;
+    padding:24px;
+     border-radius: 16px solid  #353535;
+     height: 269px;
+    width:269px  ;}
