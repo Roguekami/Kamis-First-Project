@@ -365,10 +365,8 @@ label{  font-size: large;
       width: 90%;
       height: 40%;
       margin-right: 1rem;
-
-
-      
   
+      
   }
   .boxes{
     width: 90%;
@@ -463,8 +461,8 @@ label{  font-size: large;
     #tega{ 
     display: flex;
     flex-direction: column;
-    background: rgb(250, 237, 212);
-    margin-top: 2rem;
+    background: rgb(248, 248, 248);
+        margin-top: 2rem;
     height: 500px;
   }
   

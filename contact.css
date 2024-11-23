@@ -295,7 +295,7 @@ label{  font-size: large;
     *{
       margin: 0%;
       padding: 0%;
-      
+    
     }
     
     
@@ -389,18 +389,18 @@ label{  font-size: large;
 
     #paul{
       height: 1200px;
-      width: 100%;
+      width: 98%;
+
   }
   
   .words{
       background: #F174AC;
       width: 94%;
-      height: 92%;
+      height: 1100px;
       border-radius: 20px;
       margin-left: 0.5rem;
       margin-top: 2rem;
     
-      
       
   }
   
@@ -409,7 +409,7 @@ label{  font-size: large;
   margin-left: 2rem;
   float: left;
   margin-top: 5rem;
-   
+
   }
   li{  
       padding-top: 10px;
@@ -428,15 +428,18 @@ label{  font-size: large;
     float: left ;
     margin-left: 1rem;
     margin-top: 2rem;
-    width: 95%;
+    width: 100%; 
+    
 
   }
 
   .pic{ 
        border-radius:20px;
-       width: 90%;
-       height: 243px;
-       margin-left: 3%;
+       width:80%;
+       height: 200px;
+       margin-left: 15px;
+       margin-top: 1rem;
+
    }
   .btn9{
       margin-left: 1rem;
@@ -457,13 +460,15 @@ label{  font-size: large;
 
 
   .jon{
-    width: 100%;
+    width: 99%;
     height: 100%;
-    margin-left: 0rem;}
+    margin-left: 0rem;
+    }
 
 
  .bubble{  
     margin-top: 5rem;
+  
   
  }
 
@@ -478,6 +483,7 @@ label{  font-size: large;
     padding-left: 12px;
     border-radius: 32px;
     
+  
     
 
 }
@@ -495,10 +501,11 @@ label{  font-size: large;
     font-size: 18px;
     text-align: center;
     color: #6C7175;
-    width: 100%;
+    width: 90%;
     height: 40%;
     margin-right: 0rem;
-
+    
+    
 
     
 
@@ -507,6 +514,7 @@ label{  font-size: large;
   width: 90%;
     margin-left: 1rem;
     height: 70%;
+    
 }
 .bin{
     
@@ -515,6 +523,7 @@ label{  font-size: large;
     height: 10%;
     font-size: medium;
     
+    
 }
 .mibin{ 
     width: 85%;
@@ -522,9 +531,11 @@ label{  font-size: large;
     padding: 13px 16px;
     border-radius: 8px;
      font-size: medium;
+     
     }
 
 label{  font-size: large;
+
         }
 
 .phone{   
@@ -538,73 +549,31 @@ label{  font-size: large;
      margin-left: 4rem;
      margin-top: 20px;
      font-size: medium ;
+     
     
 }
 .phone:hover{
    background-color: #bb0c4f;
 }
 
-#tega{ 
-  display: flex;
-  justify-content: space-between;
-  background: rgb(248, 248, 248);
-  height: 300px;}
-
-.bigD{ margin-left: 50px;
-  margin-top: 20px;
-  float: left;
-       }
-.box{
-  padding-bottom: 50px;
-  font-size: larger;
-}
-.box1{ padding-bottom: 50px;
-  font-size: larger;}
-.box2{padding-bottom: 40px;
-  font-size: larger;}
 
 
-.social{ padding-top: 20px; }
-.linkd{ margin-left: 15px;}
-.minbox{ padding-right: 15px;}
-
-.minbox2{  padding-right: 15px; }
-
-
-
-.nav_p{
-  display: flex;
-  gap: 3px;
-  padding-bottom: 2rem;
-}
-
-.nav_p2{
-  display: flex;
-  gap: 13px;
-  padding-bottom: 2rem;
-}
-
-.list2{list-style-type: none;
-  display: flex;
-  flex-direction: row;
-  gap: 50px;
-  padding-top: 15px;
-  padding-right: 5%;
-  color: #6C7175;}
 
   #tega{ 
   display: flex;
   flex-direction: column;
-  background: rgb(250, 237, 212);
+  background:  rgb(248, 248, 248);
   margin-top: 2rem;
   height: 500px;
+  
 }
 
  .bigD{ margin-left: 2%;
   margin-top: 20px;
   float: left;
-  width: 98%;
+  width: 95%;
   height: 70%;
+  
        }
 .box{
   padding-bottom: 50px;
@@ -629,6 +598,7 @@ label{  font-size: large;
   gap: 3px;
   padding-bottom: 2rem;
   width: 99%;
+
 
 
 }
@@ -648,7 +618,7 @@ label{  font-size: large;
   color: #6C7175;
   padding-bottom: 3rem;
   gap: 30px;
-
+  
 
 }
 
@@ -658,7 +628,7 @@ label{  font-size: large;
   *{
     margin: 0%;
     padding: 0%;
-  
+    
   }
   
   
@@ -752,16 +722,18 @@ label{  font-size: large;
 
   #paul{
     height: 1200px;
+    
 
 }
 
 .words{
     background: #F174AC;
     width: 94%;
-    height: 82%;
+    height: 1050px;
     border-radius: 20px;
     margin-left: 0.5rem;
     margin-top: 2rem;
+    
   
     
     
@@ -792,6 +764,7 @@ ul{  padding-top: 20px;}
   margin-left: 1rem;
   margin-top: 2rem;
   width: 95%;
+  
 
 }
 
@@ -820,9 +793,10 @@ color: inherit;}
 
 
 .jon{
-  width: 100%;
+  width: 98%;
   height: 100%;
   margin-left: 0rem;
+  
     
 
 
@@ -831,6 +805,7 @@ color: inherit;}
 .bubble{  
   margin-top: 5rem;
   
+  width: 99%;
 
 }
 
@@ -848,6 +823,7 @@ color: inherit;}
   border-radius: 32px;
   
   
+  
 
 }
 
@@ -855,7 +831,8 @@ color: inherit;}
 
 .sup{
    margin-bottom: 30px;
-  font-size: xx-large;}
+  font-size: xx-large;
+}
 
 
 .send{   
@@ -866,6 +843,8 @@ color: inherit;}
   width: 90%;
   height: 40%;
   margin-right: 1rem;
+  
+  
 
 
   
@@ -882,6 +861,7 @@ width: 90%;
   width: 96%;
   height: 10%;
   font-size: medium;
+  
   
 }
 .mibin{ 
@@ -914,9 +894,10 @@ label{  font-size: large;
 #tega{ 
 display: flex;
 flex-direction: column;
-background: rgb(250, 237, 212);
+background: rgb(248, 248, 248);
 margin-top: 2rem;
 height: 520px;
+
 }
 
 .bigD{ margin-left: 2%;
@@ -925,6 +906,7 @@ float: left;
 width: 85%;
 height: 70%;
 padding-left: 1rem;
+
      }
 .box{
 padding-bottom: 50px;
@@ -969,6 +951,7 @@ color: #6C7175;
 padding-bottom: 3rem;
 gap: 30px;
 margin-left: 1rem;
+
 
 
 
